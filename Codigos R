@@ -1,0 +1,11 @@
+modelos-arch-garch/
+│
+├── simulacion/             # Códigos para simulación de procesos
+├── estimacion/             # Códigos para estimación de modelos
+├── diagnostico/            # Códigos para diagnóstico y validación
+├── aplicaciones/           # Códigos para aplicaciones prácticas
+│   ├── var/                # Valor en Riesgo
+│   ├── opciones/           # Valoración de opciones
+│   └── carteras/           # Optimización de carteras
+├── caso_estudio/           # Análisis del mercado peruano
+└── datos/                  # Conjuntos de datos utilizados
